@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    font-family:cursive;
+}
+*{
+    font-family: cursive;
+}
+p{
+    font-weight: 100;
+}
+
+h1{
+    font-size: 4rem;
+    color: rgb(184, 113, 113);
+    font-family: cursive;
+    font-weight: 100;
+
+}
+.custom-nav{
+    background-color: #eec0c8;
+}
