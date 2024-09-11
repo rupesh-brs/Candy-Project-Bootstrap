@@ -10,11 +10,17 @@ p{
 }
 
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
     color: rgb(184, 113, 113);
     font-family: cursive;
     font-weight: 100;
 
+}
+@media screen and (max-width >= 1200px) {
+    h1{
+        font-size: 2rem;
+    }
+    
 }
 .custom-nav{
     background-color: #eec0c8;
